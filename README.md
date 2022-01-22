@@ -19,6 +19,7 @@ What I am sure of now is, however, that I should start from the scratch.
 
 So, the next plans I have are...
 
+- [PintOS projects](http://web.stanford.edu/class/cs140/projects/pintos/pintos.html)
 - Analysis of the start of the kernel
 - Tracking mentors I have in mind (persistently, continuously)
 
