@@ -1,15 +1,18 @@
 # Introduction
 
 Hi, I'm Karatus.
-I'm interested in hacking, especially pwn, reverse engineering... and the Linux Kernel.
+I'm interested in **Linux Kernel**.
 
 Nowadays, I'm trying to understand the kernel's basic principle and make somthing with C lang and Rust lang.
 
 
 # Proceeding Projects
 
-- [Making a RTOS by reading a book](https://github.com/TwoPair/os-clone)
-- Linux module programming by reading a book
+| Project | Lang |  |
+| ------- | ---- | ------ |
+| [Making a RTOS by reading a book](https://github.com/TwoPair/os-clone) | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![complete](https://img.shields.io/badge/complete-90%25-green) |
+| [Linux module programming with reading a book (Blog)](https://karatus.tistory.com/category/Kernel/Development) | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![topic](https://img.shields.io/badge/topic-5-blue) |
+| [RustShell](https://github.com/TwoPair/RustShell) | ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) | ![complete](https://img.shields.io/badge/complete-0%25-red) |
 
 
 # What's the next of your study?
