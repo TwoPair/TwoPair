@@ -4,7 +4,7 @@
   
   ### 🤘 Introduction
   
-  Greetings! I like **Rust & Linux Kernel**.
+  Greetings! I like **Rust & Linux Kernel**. You can check more details in [my blog](https://karatus.tistory.com/).
   
   Also, I love to contribute opensources. The list below shows what I'm working on.
   
